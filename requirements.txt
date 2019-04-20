@@ -1,0 +1,7 @@
+spotipy
+requests
+simplejson
+pprint
+six
+python-dotenv
+tqdm

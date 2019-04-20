@@ -1,0 +1,6 @@
+.env
+.vscode
+.cache-*
+tracks.txt
+cache
+__pycache__
