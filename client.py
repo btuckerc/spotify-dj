@@ -78,7 +78,7 @@ with open("tracks.txt", "w") as f:
 '''
 # shows acoustic features for tracks for the given artist
 
-uri = 'spotify:user:tuxedo7777:playlist:4GLMvYLD7N9TcQG9GgQG69'
+uri = 'spotify:user:{}:playlist:4GLMvYLD7N9TcQG9GgQG69'.format(USERNAME)
 username = uri.split(':')[2]
 playlist_id = uri.split(':')[4]
 
